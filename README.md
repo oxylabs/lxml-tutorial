@@ -15,7 +15,7 @@
 
 In this lxml Python tutorial, we will explore the lxml library. We will go through the basics of creating XML documents and then jump on processing XML and HTML documents. Finally, we will put together all the pieces and see how to extract data using lxml. 
 
-For a detailed explanation, see our [blog post](https://oxylabs.io/blog/lxml-tutorial).
+For a detailed explanation, see our [blog post](https://oxy.yt/BrAk).
 
 ## Installation
 
@@ -275,4 +275,4 @@ for country in countries:
 
 ## Conclusion
 
-If you wish to find out more about XML Processing and Web Scraping With lxml, see our [blog post](https://oxylabs.io/blog/lxml-tutorial).
+If you wish to find out more about XML Processing and Web Scraping With lxml, see our [blog post](https://oxy.yt/BrAk).
